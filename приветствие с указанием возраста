@@ -1,9 +1,5 @@
-function main() {
-    var age = 17; 
-    
-    var greeting = "Привет! Мне " + age + " лет.";
-    
-    print(greeting);
-}
-
-main();
+start
+new age number
+set age 18
+log string "Приветик! Мне " >> age >> " лет."
+finish
