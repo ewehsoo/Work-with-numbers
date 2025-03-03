@@ -1,0 +1,10 @@
+function main() {
+    var age = 17; 
+    
+
+    var greeting = "Привет! Мне " + age + " лет.";
+    
+    print(greeting);
+}
+
+main();
