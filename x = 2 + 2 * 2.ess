@@ -5,4 +5,4 @@ new b number
 set b a+a 
 new x number
 set x a+b
-log "x =" << x
+log string "x =" >> x
