@@ -6,3 +6,4 @@ set b a+a
 new x number
 set x a+b
 log string "x =" >> x
+finish
